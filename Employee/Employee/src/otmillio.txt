@@ -1,0 +1,14 @@
+Név: John Éves fizetés forintban: 5616000
+Név: Eva Éves fizetés forintban: 5148000
+Név: Sophia Éves fizetés forintban: 6318000
+Név: David Éves fizetés forintban: 7488000
+Név: Daniel Éves fizetés forintban: 6552000
+Név: Matthew Éves fizetés forintban: 6786000
+Név: William Éves fizetés forintban: 5382000
+Név: Ava Éves fizetés forintban: 6084000
+Név: Benjamin Éves fizetés forintban: 5241600
+Név: Logan Éves fizetés forintban: 5382000
+Név: Luna Éves fizetés forintban: 6552000
+Név: Liam Éves fizetés forintban: 5850000
+Név: Grace Éves fizetés forintban: 7113600
+Név: Oliver Éves fizetés forintban: 5241600
